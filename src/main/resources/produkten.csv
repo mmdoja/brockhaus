@@ -1,0 +1,19 @@
+Bezeichnung,Name,Grundpreis,Qualitaet,Verfallsdatum
+kaese,Cheddar,5.0,40,2024-12-31
+kaese,Gouda,4.5,35,2024-12-15
+kaese,Brie,6.0,32,2024-12-20
+kaese,Blue Kaese,7.0,28,2024-12-05
+kaese,Parmesan,8.0,45,2025-01-10
+wein,Merlot,10.0,20,
+wein,Chardonnay,12.0,25,
+wein,Cabernet Sauvignon,15.0,30,
+wein,Pinot Noir,11.5,35,
+allgemein,Milch,2.5,15,2024-11-01
+allgemein,Brot,1.0,10,2024-11-05
+allgemein,Butter,2.2,12,2024-11-20
+allgemein,Jogurt,1.8,8,2024-11-08
+allgemein,Muesli,3.0,50,2025-01-01
+allgemein,Saft,2.0,20,2024-12-01
+allgemein,Schokolade,1.5,60,2025-02-28
+wein,Riesling,13.0,40,
+wein,Sauvignon Blanc,14.0,18,
