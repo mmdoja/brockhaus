@@ -21,7 +21,7 @@ public class AllgemeinProdukt implements Produkt {
         return name;
     }
 
-    public double getBasePrice() {
+    public double getGrundPreis() {
         return grundPreis;
     }
 

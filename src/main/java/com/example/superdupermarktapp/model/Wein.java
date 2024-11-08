@@ -10,7 +10,7 @@ public class Wein extends AllgemeinProdukt {
 
     @Override
     public double getPrice() {
-        return getBasePrice();
+        return getGrundPreis();
     }
 
     @Override
